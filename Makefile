@@ -8,7 +8,7 @@ OS := $(shell uname)
 
 PROJECT := pre-commit-mypy
 
-PYTHON_VERSION=3.7.3
+PYTHON_VERSION=3.8
 PYENV_NAME="${PROJECT}"
 
 # Configuration.
